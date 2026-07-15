@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gamer PS4 YouTube</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            margin-top: 50px;
+        }
+        img {
+            width: 200px;
+            border-radius: 50%;
+        }
+        h1 {
+            margin-top: 20px;
+            font-size: 2em;
+        }
+    </style>
+</head>
+<body>
+    <img src="https://share.google/riknNqtN2ZqwcH7d7" alt="Gamer-Bild">
+    <h1>Gamer PS4 YouTube</h1>
+</body>
+</html>
